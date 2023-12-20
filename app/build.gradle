@@ -37,7 +37,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'space.bum.junit.ch11.fliman.App'
+    mainClass = 'space.bum.junit.ch11.fliman.Passenger'
 }
 
 tasks.named('test') {
